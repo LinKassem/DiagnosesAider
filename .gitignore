@@ -2,4 +2,4 @@
 .classpath
 .project
 .class
-/build/classes/*
+build/classes/*
